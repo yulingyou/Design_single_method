@@ -1,16 +1,3 @@
-Exercises
-Follow the design recipe to implement the following user stories in your project. User stories follow a specific format — don't worry about that too much now, you'll get the hang of it.
-
-One
-As a user
-So that I can manage my time
-I want to see an estimate of reading time for a text, assuming that I can read 200 words a minute.
-
-Example solution
-
-Two
-
-
 
 {{PROBLEM}} Method Design Recipe
 1. Describe the Problem
