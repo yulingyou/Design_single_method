@@ -1,6 +1,6 @@
 
 
-{{PROBLEM}} Method Design Recipe
+Track_my_task Method Design Recipe
 1. Describe the Problem
 As a user
 So that I can keep track of my tasks
